@@ -1,6 +1,7 @@
 <div align="center">
     <img src="./assets/gif/stress.gif" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
 </div>
+
 ## 👋 Hi, I’m Negat1v9
 
 I love writing code, learning new technologies, and someday I want to write my own database.
