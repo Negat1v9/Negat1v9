@@ -10,7 +10,7 @@ I'm a student and enjoy studying the web and writing backends for highly loaded 
 
 ### 🛠 Skills & Interests
 
-- **Programming Languages:** Go,JavaScript, Python
+- **Programming Languages:** Go, JavaScript, Python
 - **Soft Skills**: I communicate well with people and enjoy solving problems together.
 - **Learning:** Always expanding my knowledge in software development
 
