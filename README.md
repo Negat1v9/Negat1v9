@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/gif/stress.gif" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
+    <img src="./assets/gif/smart.gif" style="width: 200px; display: block; margin-left: auto; margin-right: auto;" />
 </div>
 
 ## 👋 Hi, I’m Negat1v9
